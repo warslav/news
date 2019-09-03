@@ -1,0 +1,3 @@
+D:\Python\PyForBeginer\news\obj\Debug\news.pyproj.CoreCompileInputs.cache
+D:\Python\PyForBeginer\news\bin\Microsoft.PythonTools.WebRole.dll
+D:\Python\PyForBeginer\news\bin\wfastcgi.py
